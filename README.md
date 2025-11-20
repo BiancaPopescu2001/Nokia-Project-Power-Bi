@@ -6,7 +6,7 @@ This project consists of a Power BI dashboard created in collaboration with Noki
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/BiancaPopescu2001/Nokia-Project-Power-Bi/blob/main/PowerBI%20Dashboard.pdf)
+(https://github.com/BiancaPopescu2001/Nokia-Project-Power-Bi/blob/main/PowerBI%20Dashboard.pdf)
 
 ---
 
