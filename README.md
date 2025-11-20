@@ -1,6 +1,6 @@
-# Power BI Dashboard - [Project Name]
+# Power BI Dashboard For French Patisserie
 
-This project consists of a Power BI dashboard created in collaboration with Nokia during my university studies. The dashboard provides insights into [brief description of data or metrics analyzed].
+This project consists of a Power BI dashboard created in collaboration with Nokia during my university studies. 
 
 ---
 
@@ -25,40 +25,25 @@ The dashboard was developed for [department/project/team] to visualize and analy
 
 ---
 
-## Repository Structure
-
-- `Dashboard.pbix` – Power BI Desktop file
-- `Dashboard.pdf` – exported report in PDF format
-- `README.md` – this file
-- `images/` – screenshots and visual assets
-
----
 
 ## How to Use
 
 1. Open `Dashboard.pbix` in Power BI Desktop.
 2. Interact with filters and visualizations.
-3. Export the report to PDF or PowerPoint if needed.
 
 ---
 
 ## Technologies and Tools
 
 - Power BI Desktop
-- DAX (Data Analysis Expressions) for calculated measures
-- Data sourced from [data source] and processed in [how processed]
+- DAX (Data Analysis Expressions) for calculated measures 
+- Data sourced from Kaggle.com and processed in phpMyAdmin
 
 ---
 
 ## Collaboration
 
-Project developed in collaboration with the Nokia team during my university studies at [University Name].
-
----
-
-## Additional Screenshots (Optional)
-
-- [Include extra visualizations if needed]
+Project developed in collaboration with the Nokia team during my university studies at West University of Timișoara.
 
 ---
 
